@@ -20,21 +20,21 @@ Materiały mają charakter wprowadzający i są przedstawione głównie w formie
 
 ## Infografiki
 
-### 1\. AI, Machine Learning, Deep Learning i Generative AI
+### 1. AI, Machine Learning, Deep Learning i Generative AI
 
-!\[AI, ML, Deep Learning i Generative AI](./1.png)
+![AI, ML, Deep Learning i Generative AI](1.png)
 
-### 2\. Human in the Loop
+### 2. Human in the Loop
 
-!\[Human in the Loop](./2.png)
+![Human in the Loop](2.png)
 
 ### 3. Jak działa LLM?
 
-!\[Jak działa LLM](./3.png)
+![Jak działa LLM](3.png)
 
-### 4\. Agent, Skill, MCP, IDE / CLI i Harness
+### 4. Agent, Skill, MCP, IDE / CLI i Harness
 
-!\[Agent, Skill, MCP, IDE CLI i Harness](./4.png)
+![Agent, Skill, MCP, IDE CLI i Harness](4.png)
 
 > Materiał: wprowadzenie do AI.
 
