@@ -1,4 +1,5 @@
 # WorkshopAI-QA
+
 Workshop data
 
 Dzień 1
@@ -17,9 +18,6 @@ Dzień 1
 
 15:40–16:00 [20min] - Review odpowiedzi AI i podsumowanie workflow wspólna analiza
 
-
-
-
 Dzień 2
 
 09:00–09:20 [20min] - Od testu manualnego do automatyzacji wprowadzenie
@@ -36,3 +34,6 @@ Dzień 2
 
 12:30–13:00 [30min] - Final Challenge + workflow do dalszej pracy zadanie końcowe
 
+
+
+https://miro.com/app/board/uXjVHouKLB4=/
