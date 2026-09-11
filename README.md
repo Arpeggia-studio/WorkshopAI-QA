@@ -4,7 +4,7 @@ Workshop data
 
 Dzień 1
 
-12:00–12:20 [20min] - [AI w pracy testera wprowadzenie](./part1/README_AI.md)
+12:00–12:20 [20min] - AI w pracy testera wprowadzenie
 
 12:20–13:00 [40min] - Bezpieczna praca z AI ćwiczenie
 
