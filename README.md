@@ -34,6 +34,7 @@ Dzień 2
 
 12:30–13:00 [30min] - Final Challenge + workflow do dalszej pracy zadanie końcowe
 
-
-
 https://miro.com/app/board/uXjVHouKLB4=/
+
+
+[https://forms.cloud.microsoft/e/Sa9PC4fNXA]()
